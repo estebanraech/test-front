@@ -1,7 +1,7 @@
 import React from 'react'
-import { Menu, DatePicker } from 'antd'
+import { Menu } from 'antd'
 
-function Header(props){
+function Header(){
   return (
     <div>
       <Menu 
